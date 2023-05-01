@@ -18,9 +18,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=AmirrezaSharifi-8&limit=5&theme=dracula&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=AmirrezaSharifi-8&icon=5&color=0)](https://visitcount.itsvg.in)
 
