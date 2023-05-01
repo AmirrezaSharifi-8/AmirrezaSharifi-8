@@ -16,7 +16,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=AmirrezaSharifi-8&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=gotham)
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AmirrezaSharifi-8&icon=5&color=0)](https://visitcount.itsvg.in)
