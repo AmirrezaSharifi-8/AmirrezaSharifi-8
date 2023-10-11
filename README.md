@@ -1,7 +1,7 @@
+![giphy](https://github.com/AmirrezaSharifi-8/AmirrezaSharifi-8/assets/52145933/575d6bfc-9cfa-4414-af68-91044a30c064)
 
 # 💫 About Me:
 🔭 I’m currently working in Dayan Group<br>🌱 Besides that, I'm digging deeper into Backend Development concepts<br>🤖 And also am learning NodeJs as a new skill<br>⚡ Programming and Developing new things is so appealing to me
-![giphy](https://github.com/AmirrezaSharifi-8/AmirrezaSharifi-8/assets/52145933/575d6bfc-9cfa-4414-af68-91044a30c064)
 
 
 ## 🌐 Socials:
