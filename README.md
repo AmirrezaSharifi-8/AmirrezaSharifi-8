@@ -1,4 +1,4 @@
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw0P0cpM3GMKYpCIAliv6NPB&ust=1697092010052000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCKCp0cWu7YEDFQAAAAAdAAAAABChAQ)
+![giphy](https://github.com/AmirrezaSharifi-8/AmirrezaSharifi-8/assets/52145933/575d6bfc-9cfa-4414-af68-91044a30c064)
 
 # 💫 About Me:
 🔭 I’m currently working in Dayan Group<br>🌱 Besides that, I'm digging deeper into Backend Development concepts<br>🤖 And also am learning NodeJs as a new skill<br>⚡ Programming and Developing new things is so appealing to me
