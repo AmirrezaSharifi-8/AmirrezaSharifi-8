@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-🔭 I’m currently working as a Full-Stack developer (Laravel & React)<br>🌱 Besides that, I'm digging deeper into Software Development concepts<br>🤖 And also am practicing for competitive programming contest<br>⚡ Programming and Developing new things is so appealing to me
+🔭 I’m currently working as a Larvel developer at Iranserver<br>🌱 Besides that, I'm digging deeper into Software Development concepts<br>🤖 And also am working on my personal projects
 
 <br/>
 
