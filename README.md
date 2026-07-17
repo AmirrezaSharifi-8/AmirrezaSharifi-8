@@ -8,7 +8,7 @@
 <br/>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amirreza-sharifi-48a51818a) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/11732020/amirreza) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/amirrezasharifi-8) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/amirreza-sharifi-48a51818a) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/11732020/amirreza)
 
 <br/>
 
@@ -26,26 +26,9 @@
 ![Elastic Search](https://img.shields.io/badge/-elasticsearch-%23404d59?logo=elasticsearch&logoColor=%FDAE4B&style=for-the-badge) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/-redis-DC382D?logo=redis&logoColor=white&style=for-the-badge)
 <br/>
 <br/>
-# 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirrezaSharifi-8&theme=gotham&hide_border=true&include_all_commits=false&count_private=false" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmirrezaSharifi-8&theme=gotham&hide_border=true"/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirrezaSharifi-8&theme=gotham&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmirrezaSharifi-8&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" />
-</p>
-
 ### ✍️ Random Dev Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" />
-</p>
-
----
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=AmirrezaSharifi-8&icon=5&color=0" />
 </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
